@@ -1,0 +1,7 @@
+C:\Users\verum\Desktop\git_repos\C#Stack\stack_test\bin\Debug\stack_test.exe.config
+C:\Users\verum\Desktop\git_repos\C#Stack\stack_test\bin\Debug\stack_test.exe
+C:\Users\verum\Desktop\git_repos\C#Stack\stack_test\bin\Debug\stack_test.pdb
+C:\Users\verum\Desktop\git_repos\C#Stack\stack_test\obj\Debug\stack_test.csprojAssemblyReference.cache
+C:\Users\verum\Desktop\git_repos\C#Stack\stack_test\obj\Debug\stack_test.csproj.CoreCompileInputs.cache
+C:\Users\verum\Desktop\git_repos\C#Stack\stack_test\obj\Debug\stack_test.exe
+C:\Users\verum\Desktop\git_repos\C#Stack\stack_test\obj\Debug\stack_test.pdb
